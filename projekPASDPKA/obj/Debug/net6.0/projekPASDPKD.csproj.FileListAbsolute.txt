@@ -1,0 +1,14 @@
+D:\vs\projekPASDPKD\projekPASDPKD\bin\Debug\net6.0\projekPASDPKD.exe
+D:\vs\projekPASDPKD\projekPASDPKD\bin\Debug\net6.0\projekPASDPKD.deps.json
+D:\vs\projekPASDPKD\projekPASDPKD\bin\Debug\net6.0\projekPASDPKD.runtimeconfig.json
+D:\vs\projekPASDPKD\projekPASDPKD\bin\Debug\net6.0\projekPASDPKD.dll
+D:\vs\projekPASDPKD\projekPASDPKD\bin\Debug\net6.0\projekPASDPKD.pdb
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.AssemblyInfoInputs.cache
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.AssemblyInfo.cs
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.csproj.CoreCompileInputs.cache
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.dll
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\refint\projekPASDPKD.dll
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.pdb
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\projekPASDPKD.genruntimeconfig.cache
+D:\vs\projekPASDPKD\projekPASDPKD\obj\Debug\net6.0\ref\projekPASDPKD.dll
